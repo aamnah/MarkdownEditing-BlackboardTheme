@@ -1,6 +1,6 @@
 # Blackboard
 
-Custom Markdown syntax highlighting for the Sublime Text MarkdownWriting Package, colors inspired by Blackboard theme for [Haroopad](http://pad.haroopress.com/) and Monokai Bright theme.
+Custom Markdown syntax highlighting for the Sublime Text [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) Package, colors inspired by Blackboard theme for [Haroopad](http://pad.haroopress.com/) and Monokai Bright theme.
 
 Installation
 ---
