@@ -12,7 +12,7 @@ b) Edit MarkdownEditing Settings to point to the custom theme.
     
 Basic Colors
 ---
-Background <span style="color:#0c1021;background:#0c1021">#0c1021</span>  
+Background #0c1021    
 Foreground (text) #fff  
 Headings #ff6400  
 Code #ffff06  
