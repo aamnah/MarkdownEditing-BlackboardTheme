@@ -4,7 +4,10 @@ Custom Markdown syntax highlighting for the Sublime Text [MarkdownEditing](https
 
 Installation
 ---
-a) Copy the file **MarkdownEditor-Blackboard.tmTheme** to the Packages folder.  
+a) Copy the file **MarkdownEditor-Blackboard.tmTheme** to the Packages folder. 
+    
+    /Users/USERNAME/Library/Application Support/Sublime Text 3/Packages/User
+
 b) Edit MarkdownEditing Settings to point to the custom theme.
 
     "color_scheme": "Packages/User/MarkdownEditing/MarkdownEditor-Blackboard.tmTheme",  
