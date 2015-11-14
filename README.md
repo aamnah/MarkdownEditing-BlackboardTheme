@@ -30,6 +30,7 @@ Alternatively, you can find the default settings files located at:
     
 Screenshots
 ---
+** Some colors (blockquotes) may vary after the latest update.
 ![Basics](https://github.com/aamnah/MarkdownEditing-BlackboardTheme/blob/master/screenshots/basics.png)
 ![Blackquotes & Code Blocks](https://github.com/aamnah/MarkdownEditing-BlackboardTheme/blob/master/screenshots/code-blocks.png)
 ![Image Links and URLs](https://github.com/aamnah/MarkdownEditing-BlackboardTheme/blob/master/screenshots/images-urls.png)
