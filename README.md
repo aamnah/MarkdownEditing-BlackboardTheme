@@ -2,6 +2,8 @@
 
 Custom Markdown syntax highlighting for the Sublime Text [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) Package, colors inspired by Blackboard theme for [Haroopad](http://pad.haroopress.com/) and Monokai Bright theme.
 
+Works with version 2.1.3 of MarkdownEditing.
+
 Installation
 ---
 You should have MardownEditing already installed.
