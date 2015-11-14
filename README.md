@@ -21,6 +21,12 @@ Open MarkdownEditing settings from the `Preferences > Package Settings > Markdow
     "color_scheme": "Packages/User/MarkdownEditing/MarkdownEditor-Blackboard.tmTheme",  
 
 ![Settings](https://github.com/aamnah/MarkdownEditing-BlackboardTheme/blob/master/screenshots/settings.png)
+
+Alternatively, you can find the default settings files located at:
+
+    Packages/MarkdownEditing/Markdown.sublime-settings         [GitHub flavored Markdown]
+    Packages/MarkdownEditing/Markdown (Standard).sublime-settings
+    Packages/MarkdownEditing/MultiMarkdown.sublime-settings
     
 Screenshots
 ---
