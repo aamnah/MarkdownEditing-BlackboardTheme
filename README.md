@@ -6,11 +6,17 @@ Installation
 ---
 You should have MardownEditing already installed.
 
-a) Copy the file **MarkdownEditor-Blackboard.tmTheme** to the Packages folder. 
+a) Copy the file **MarkdownEditor-Blackboard.tmTheme** to the Packages folder. The path is:
+
+Users > USERNAME > Library > Application Support > Sublime Text 3 > Packages > User
+
+You can `Cmd+Shift+G` to quickly go to folder by entering the path.
     
     /Users/USERNAME/Library/Application Support/Sublime Text 3/Packages/User
 
 b) Edit MarkdownEditing Settings to point to the custom theme.
+
+Open MarkdownEditing settings from the `Preferences > Package Settings > Markdown Editing` menu.
 
     "color_scheme": "Packages/User/MarkdownEditing/MarkdownEditor-Blackboard.tmTheme",  
 
