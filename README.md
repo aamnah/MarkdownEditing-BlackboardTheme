@@ -10,9 +10,15 @@ You should have MardownEditing already installed.
 
 a) Copy the file **MarkdownEditor-Blackboard.tmTheme** to the Packages folder. 
 
+#### Mac OS
 You can `Cmd+Shift+G` to quickly go to folder by entering the path. The path is:
     
     ~/Library/Application Support/Sublime Text 3/Packages/User
+
+#### Linux
+Download the file, go to Packages folder, create a new folder for MarkdownEditing if one doesn't already exist and copy the file there: 
+
+    ~/.config/sublime-text-3/Packages/User    
 
 b) Edit MarkdownEditing Settings to point to the custom theme.
 
